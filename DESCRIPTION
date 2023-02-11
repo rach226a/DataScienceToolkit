@@ -1,12 +1,16 @@
 Package: DataScienceToolkit
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Culmination of functions useful for data science
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Authors@R: 
+    person(given = "Rachael",
+           family = "Aubin",
+           role = c("aut", "cre"),
+           email = "raubin@seas.upenn.edu",
+           comment = c(ORCID = "https://orcid.org/0000-0002-9789-763X"))
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
