@@ -23,3 +23,5 @@ library(DataScienceToolkit)
 A list of the main functions in the the DataScienceToolkit:
 
 -   [gg_color](https://github.com/rach226a/DataScienceToolkit/blob/master/R/colors.R)
+-   [distinct_color_ramp](https://github.com/rach226a/DataScienceToolkit/blob/master/R/colors.R)
+-   [enrichment_gene_list](https://github.com/rach226a/DataScienceToolkit/blob/master/R/feature_enrichment.R)
